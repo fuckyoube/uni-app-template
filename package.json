@@ -1,0 +1,14 @@
+{
+  "name": "mina",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bignumber.js": "^9.0.2"
+  },
+  "devDependencies": {
+    "sass": "^1.45.0",
+    "eslint-config-vue2-uni-app": "^0.0.8",
+    "stylelint-config-vue2-uni-app": "^0.0.8"
+  }
+}
